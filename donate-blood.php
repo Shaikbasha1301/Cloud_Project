@@ -29,8 +29,8 @@ class script{
 
         public function __construct(){
 
-                $server = "mysqldb";
-                $user = "root";
+                $server = "mysqldb.c43cewsiaooe.us-east-1.rds.amazonaws.com";
+                $user = "admin";
                 $pass = "admin123";
                 $db = "customers";
 
